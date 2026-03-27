@@ -33,16 +33,6 @@
 - 🏨 **Hotel Reservation App** – CodeIgniter 4 + AdminLTE + Stripe
 - 📱 **Android Jetpack Compose App** – MVVM + Room database
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tagarte&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tagarte&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-
 
 ---
 
